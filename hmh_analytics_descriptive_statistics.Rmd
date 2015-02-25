@@ -324,10 +324,10 @@ dokT2<-gvisPieChart(y1, options=list(title=title, width=500, height=500))
 plot(gvisMerge(dokT2, dokF, horizontal=TRUE))
 ```
 
-The distribution of content passed seems very close to the total DOK distribution so it appears the DOK levels are appropriate based on student outcome for those students passing the assessments. But in the distribution of content failed the student outcomes suggest that the DOK level 2 content might be more difficult than the DOK level would assume.
+The distribution of content passed seems very close to the total DOK distribution so it appears the DOK levels are appropriate based on student outcome for those students passing the assessments. But in the distribution of content failed the student outcomes suggest that the **DOK level 3** content might be more difficult than the DOK level would assume.
 
 
-Comparative bar plot
+**Comparative bar plot**
 
 This is the same information above but in a single bar plot.
 
